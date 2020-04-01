@@ -1,5 +1,6 @@
-def my_hash = {"rabiah" => "student", "dominique" => "teacher"}
-puts my_hash
+def my_hash 
+  whos_wh0 = {"student" => "rabiah", "teacher" => "dominique"}
+
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
   
